@@ -1,6 +1,6 @@
 # APIbasedonSequelize
 
-this API will show you some dats of your database,
+this API will show you some datas of your database,
 
 /api/users : all users list of a table.
 
